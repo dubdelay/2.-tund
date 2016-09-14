@@ -49,7 +49,6 @@
  
  <?php
  
-	echo date("d/m/Y"). " ning ".date("z"). ". päev aastas.";
-	echo "Kell on ". date("G:s");
-	
+	echo date("d/m/Y"). " ning ".date("z"). ". päev aastas. ";
+	echo "Kell on ". date("G:i");
 ?>
